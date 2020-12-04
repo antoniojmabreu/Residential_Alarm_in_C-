@@ -1,0 +1,24 @@
+[11/19/2020 11:04:40 AM] Alarme será armado em 10s
+[11/19/2020 11:04:49 AM] Alarme Armado (Manualmente)
+[11/19/2020 11:04:51 AM] Alarm Ativado! (Devido a Intrusão)
+[11/19/2020 11:04:53 AM] Alarme Desarmado (Manualmente)
+
+[11/25/2020 5:03:38 PM] Alarme será armado em 10s
+[11/25/2020 5:03:47 PM] Alarme Armado (Manualmente)
+[11/25/2020 5:03:52 PM] Funcionalidade Email Ativada
+[11/25/2020 5:04:00 PM] Alarme Ativado! (Devido a Intrusão)
+[11/25/2020 5:04:00 PM] Email de aviso enviado
+[11/25/2020 5:04:43 PM] Alarme Desarmado (Via Email)
+[11/25/2020 5:04:47 PM] O Alarme já está Desarmado
+[11/25/2020 5:04:50 PM] Modo Exterior Ativado
+[11/25/2020 5:04:53 PM] Alarme Desarmado (Via Email)
+[11/25/2020 5:04:58 PM] Modo Exterior Ativado
+[11/25/2020 5:05:08 PM] Alarme Ativado! (Devido a Intrusão)
+[11/25/2020 5:05:08 PM] Email de aviso enviado
+[11/25/2020 5:05:14 PM] Alarme Desarmado (Manualmente)
+[11/25/2020 5:05:16 PM] Iluminação de Presença Ativada
+[11/25/2020 5:05:19 PM] Modo Exterior Ativado
+[11/25/2020 5:05:21 PM] Alarme Ativado! (Devido a Intrusão)
+[11/25/2020 5:05:21 PM] Email de aviso enviado
+[11/25/2020 5:05:32 PM] Alarme Desarmado (Manualmente)
+
