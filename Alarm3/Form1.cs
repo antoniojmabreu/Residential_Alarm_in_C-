@@ -569,7 +569,7 @@ namespace Alarm3
             {
                 //  Connect and sign to IMAP server.
                 imap.Connect();
-                imap.Authenticate("antoniojmabreu@hotmail.com", "Zehlend0rf_RS21B");
+                imap.Authenticate("email", "passwd");
 
                 // Select INBOX folder.
                 imap.SelectInbox();
@@ -648,8 +648,8 @@ namespace Alarm3
 
             // Create new email message.
             MailMessage message = new MailMessage(
-                new MailAddress("antoniojmabreu@hotmail.com", "Alarme Residêncial"),
-                new MailAddress("antoniojmabreu@gmail.com", "First receiver"));
+                new MailAddress("email", "Alarme Residêncial"),
+                new MailAddress("email", "First receiver"));
 
 
             // Add subject and body.
@@ -660,7 +660,7 @@ namespace Alarm3
             using (SmtpClient smtp = new SmtpClient("smtp-mail.outlook.com"))
             {
                 smtp.Connect();
-                smtp.Authenticate("antoniojmabreu@hotmail.com", "Zehlend0rf_RS21B");
+                smtp.Authenticate("email", "passwd");
                 smtp.SendMessage(message);
                 textBoxLogs.Text += "[" + dateNow.ToString() + "]" + " Email de aviso enviado" + Environment.NewLine;
             }
